@@ -1,6 +1,6 @@
 # 🎓 BACIEL
 
-**The official web portal of Berdychiv Applied College of Industry, Econimics and Law.**  
+**The official web portal of Berdychiv Applied College of Industry, Economics and Law.**  
 A modern platform to connect students, teachers, and the academic community.
 
 ![Screenshot](screenshots/demo.png)
