@@ -1,5 +1,4 @@
-https://github.com/spark278/BCEiP-Portal/tree/main# BCEiP-Portal
-# 🎓 BCEiP-Portal
+# 🎓 BACIEL
 
 **The official web portal of Berdychiv College of Economics and Law.**  
 A modern platform to connect students, teachers, and the academic community.
@@ -10,10 +9,10 @@ A modern platform to connect students, teachers, and the academic community.
 
 ## 🌐 Description
 
-BCEiP-Portal is a student-oriented web platform designed to bring together all the essential college services in one place.  
+BACIEL is a student-oriented web platform designed to bring together all the essential college services in one place.  
 From class schedules and announcements to study resources and digital tools — this site is built to enhance the student experience.
 
-> 💬 “BCEiP-Portal — your digital campus.”
+> 💬 “BACIEL — your digital campus.”
 
 ---
 
@@ -31,6 +30,5 @@ From class schedules and announcements to study resources and digital tools — 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/bceip-portal.git
-cd bceip-portal
-
+git clone https://github.com/spark278/BACIEL-Portal.git
+cd baciel
